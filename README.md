@@ -1,8 +1,9 @@
 # Creating inclusive and competitive agri-food value chains
 
-# h1 Heading
+# h1 
+![1702314426761](https://github.com/user-attachments/assets/95852ecb-69aa-4a0d-9f6f-68809dcd4081)
+![Schermata-2021-03-19-alle-19 31 44-600x449](https://github.com/user-attachments/assets/90a8baf3-f6f4-4420-83ad-ef68424417d8)
 
-                                  ![1702314426761](https://github.com/user-attachments/assets/95852ecb-69aa-4a0d-9f6f-68809dcd4081)
 
 ## h2 Heading
 ### h3 Heading
@@ -20,7 +21,7 @@
 ## All bold and italic
 *** All this text is important ***
 
-## Boal and nested italic
+## Bold and nested italic
 **This text is _extremely_ important**
 
 ## Strikethrough
