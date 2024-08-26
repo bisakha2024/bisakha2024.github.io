@@ -1,6 +1,10 @@
 # kathmundu.github.io
 
 # h1 Heading
+Creating inclusive and COMPETITIVE agri-food value chains
+
+![1702314426761](https://github.com/user-attachments/assets/95852ecb-69aa-4a0d-9f6f-68809dcd4081)
+
 ## h2 Heading
 ### h3 Heading
 #### h4 Heading
