@@ -1,12 +1,18 @@
 # Creating inclusive and competitive agri-food value chains
 
-# h1 
-![1702314426761](https://github.com/user-attachments/assets/95852ecb-69aa-4a0d-9f6f-68809dcd4081)
+# 
+
+
 ![Schermata-2021-03-19-alle-19 31 44-600x449](https://github.com/user-attachments/assets/90a8baf3-f6f4-4420-83ad-ef68424417d8)
 
 
-## h2 Heading
-### h3 Heading
+## Focus area
+
+![1702314426761](https://github.com/user-attachments/assets/95852ecb-69aa-4a0d-9f6f-68809dcd4081)
+
+### Research projects
+
+
 #### h4 Heading
 ##### h5 Heading
 ###### h6 Heading
